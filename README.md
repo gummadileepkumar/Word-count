@@ -25,8 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```python
-# Developed By: Shaik sameer basha
-# Reference number: 22004926
+# Developed By: Gumma Dileep Kumar
+# Reference number: 22007129
 num_words=0
 with open('text.txt','r') as f1:         
     for i in f1:
